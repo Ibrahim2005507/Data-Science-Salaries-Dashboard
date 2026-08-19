@@ -1,0 +1,20 @@
+# Python & Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# System & OS files
+.DS_Store
+*.iso
+$RECYCLE.BIN/
+System Volume Information/
+DumpStack.log.tmp
+Elashry_Booklet_Final.pdf
+archive.zip
+app.agany/
+
+# Unrelated projects in workspace root
+hospital/
+اولى برمجه/
+TS_4WinKey_PassFab/
+import streamlit as st.py
